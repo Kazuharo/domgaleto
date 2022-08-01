@@ -1,4 +1,9 @@
-# Dom Galeto/Espetaria Loja - Flutter
+# Dom Galeto/Espetaria Premium Loja - Flutter
+
+<h3 align="center"> 
+  <img height="150px" src="https://user-images.githubusercontent.com/97095433/182196910-a58a6e6b-7039-4d9f-87b2-5f895eb834b2.png">
+  <img height="150px" src="https://user-images.githubusercontent.com/97095433/182196982-9dc13976-d638-459b-859a-52929094b2d8.png">
+</h3> 
 
 Aplicativo de Loja desenvolvido para um vizinho com o intuito de aprofundar conhecimentos em dart/flutter além de ajudar um companheiro.. Infelizmente o restaurante deixou de funcionar antes do lançamento do app, mas o conhecimento ficou.
 Apesar de ser um projeto antigo essa versão modificada(ainda em desenvolvimento) com as atualizações mais recentes dos pacotes funciona muito bem.
