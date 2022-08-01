@@ -25,8 +25,6 @@ Apesar de ser um projeto antigo essa versão modificada(ainda em desenvolvimento
   <img width="150px" src="https://user-images.githubusercontent.com/97095433/182190843-39a4dfaa-dec5-4747-85bd-897425106239.PNG">
   <img width="150px" src="https://user-images.githubusercontent.com/97095433/182190852-d8325107-dbcf-483f-bb4f-18ad81cb1fcc.PNG">
   <img width="150px" src="https://user-images.githubusercontent.com/97095433/182190865-8ff4b55e-fc9e-4689-b821-30b5c9cb0e6c.PNG">
-  <img width="150px" src="https://user-images.githubusercontent.com/97095433/182190874-d9c19b4e-bd41-406a-88a4-323a0b0d794f.PNG">
-</h3>
 
 ### :rocket: Tecnologias:
 - [Flutter](https://flutter.dev/ "Flutter")
